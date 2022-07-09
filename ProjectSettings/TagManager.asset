@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - TriggerDoor
+  - LlaveC
+  - PCeleste
+  - LlaveP
+  - PPurpura
+  - Ganzua
+  - PGanzua
+  - LlaveR
+  - PRombo
+  - MonsterE
+  - Candado1
+  - Candado2
+  - Candado3
+  - Taquilla
+  - Fusible1
+  - Fusible2
+  - Fusible3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CameraVerObj
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
